@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/tylermassey
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://massey.io
+  * I am tylermassey (https://keybase.io/tylermassey) on keybase.
+  * I have a public key ASCaG0kSEzjpywKSF4YkUwZc12ffqqEqNfo4iPrWLOwzDQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012041905fb21897d2d472f93f203cd3004aadc3ea4e1f23e420fb9c6d2e4230fa600a",
+      "host": "keybase.io",
+      "kid": "01209a1b49121338e9cb029217862453065cd767dfaaa12a35fa3888fad62cec330d0a",
+      "uid": "87848dd33b087d688388a48d87e72a19",
+      "username": "tylermassey"
+    },
+    "merkle_root": {
+      "ctime": 1522169905,
+      "hash": "7b19f6e894188c4331297e37d0b3ae9f52d13864358716643efc1881736a72bdbeb113c40a06a955d8fdd224d00a5152894b62b00014960db139828b980078b4",
+      "hash_meta": "6407f099bc7da753ffe16f1e98cb99abd5a3a184bddda2fe027f2cac739da0a7",
+      "seqno": 2296025
+    },
+    "service": {
+      "hostname": "massey.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.45"
+  },
+  "ctime": 1522169914,
+  "expire_in": 504576000,
+  "prev": "0583c095d2981341812b2f9441c38e231e851c862230edaf14a6d83cf152d2db",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgmhtJEhM46csCkheGJFMGXNdn36qhKjX6OIj61izsMw0Kp3BheWxvYWTFA0V7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNDE5MDVmYjIxODk3ZDJkNDcyZjkzZjIwM2NkMzAwNGFhZGMzZWE0ZTFmMjNlNDIwZmI5YzZkMmU0MjMwZmE2MDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOWExYjQ5MTIxMzM4ZTljYjAyOTIxNzg2MjQ1MzA2NWNkNzY3ZGZhYWExMmEzNWZhMzg4OGZhZDYyY2VjMzMwZDBhIiwidWlkIjoiODc4NDhkZDMzYjA4N2Q2ODgzODhhNDhkODdlNzJhMTkiLCJ1c2VybmFtZSI6InR5bGVybWFzc2V5In0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTIyMTY5OTA1LCJoYXNoIjoiN2IxOWY2ZTg5NDE4OGM0MzMxMjk3ZTM3ZDBiM2FlOWY1MmQxMzg2NDM1ODcxNjY0M2VmYzE4ODE3MzZhNzJiZGJlYjExM2M0MGEwNmE5NTVkOGZkZDIyNGQwMGE1MTUyODk0YjYyYjAwMDE0OTYwZGIxMzk4MjhiOTgwMDc4YjQiLCJoYXNoX21ldGEiOiI2NDA3ZjA5OWJjN2RhNzUzZmZlMTZmMWU5OGNiOTlhYmQ1YTNhMTg0YmRkZGEyZmUwMjdmMmNhYzczOWRhMGE3Iiwic2Vxbm8iOjIyOTYwMjV9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibWFzc2V5LmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuNDUifSwiY3RpbWUiOjE1MjIxNjk5MTQsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiMDU4M2MwOTVkMjk4MTM0MTgxMmIyZjk0NDFjMzhlMjMxZTg1MWM4NjIyMzBlZGFmMTRhNmQ4M2NmMTUyZDJkYiIsInNlcW5vIjoxMCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBods4ZTkNVJnOLzRxgFD9u9no+k5g34j6goAysIncNes/Fu+n0sS3bRQSYAKrQsiFc7UL5HFI+1he2QKPb0EsAqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgfbvPmkfOIiy6VKOS9OKfwiBZTLfRiykKazTSZbyKrAajdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tylermassey
+
+==================================================================
