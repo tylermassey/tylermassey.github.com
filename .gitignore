@@ -1,8 +1,4 @@
 .DS_STORE
-archives.html
-author/
-authors.html
-categories.html
-category/
-feeds/
-tags.html
+yarn-error.log
+node_modules
+.cache

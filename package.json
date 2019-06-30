@@ -1,0 +1,22 @@
+{
+  "name": "tylermassey.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tylermassey/tylermassey.github.io.git",
+  "author": "<tylermassey6@gmail.com>",
+  "homepage": "http://tylermassey.github.io",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build site/index.html -d .",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d dist -b master"
+  },
+  "dependencies": {
+    "marked": "^0.6.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1",
+    "parcel": "^1.12.3"
+  }
+}
