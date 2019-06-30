@@ -8,9 +8,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "parcel index.html",
-    "build": "parcel build site/index.html -d .",
-    "predeploy": "yarn build",
-    "deploy": "gh-pages -d dist -b master"
+    "build": "parcel build site/index.html -d ."
   },
   "dependencies": {
     "marked": "^0.6.3"
