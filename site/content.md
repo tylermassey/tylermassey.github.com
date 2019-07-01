@@ -6,6 +6,7 @@
 
 - [Résumé](https://registry.jsonresume.org/tylermassey)
 - [LinkedIn](https://www.linkedin.com/in/masseytyler/)
+- [Projects](https://github.com/tylermassey)
 - [Tweets](https://twitter.com/heymassey)
 - [Photos](https://instagram.com/heymassey)
 - [Music blog](https://dvey.tumblr.com)
