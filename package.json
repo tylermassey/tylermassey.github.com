@@ -7,9 +7,9 @@
   "homepage": "http://tylermassey.github.io",
   "license": "MIT",
   "scripts": {
-    "dev": "parcel site/index.html",
-    "prebuild": "rm site.* && rm index.html",
-    "build": "parcel build site/index.html -d ."
+    "dev": "parcel src/index.html",
+    "prebuild": "rm src.* && rm index.html",
+    "build": "parcel build src/index.html -d ."
   },
   "dependencies": {
     "marked": "^0.6.3"
