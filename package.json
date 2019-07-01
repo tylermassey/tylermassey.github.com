@@ -8,6 +8,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "parcel site/index.html",
+    "prebuild": "rm site.* && rm index.html",
     "build": "parcel build site/index.html -d ."
   },
   "dependencies": {
