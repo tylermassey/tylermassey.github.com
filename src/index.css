@@ -33,7 +33,7 @@ body {
 a,
 a:visited {
   color: #0074d9;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a:hover {
