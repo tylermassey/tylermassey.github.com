@@ -8,7 +8,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "parcel src/index.html",
-    "prebuild": "rm src.* && rm index.html",
+    "prebuild": "if [ -e src.* ]; then rm src.* && rm index.html; fi",
     "build": "parcel build src/index.html -d ."
   },
   "dependencies": {
