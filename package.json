@@ -12,7 +12,7 @@
     "build": "parcel build src/index.html -d ."
   },
   "dependencies": {
-    "marked": "^0.6.3"
+    "marked": "^4.0.10"
   },
   "devDependencies": {
     "gh-pages": "^2.0.1",
